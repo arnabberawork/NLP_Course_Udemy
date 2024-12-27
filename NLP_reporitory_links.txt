@@ -1,0 +1,126 @@
+Links to Notebooks (As taught in Lectures)
+Section 3: Basics of Natural Language Processing
+
+1) Tokenization
+
+https://colab.research.google.com/drive/1o5vwcA5Z78dRjO8YU7XpoZI3oHmZizfC
+
+2) Stemming & Lemmatization
+
+https://colab.research.google.com/drive/1kppO0npVqBngzoGrl58d3KXuayx-luRs
+
+3) Stop Words
+
+https://colab.research.google.com/drive/12BrRBGNKVXW71JLZuqZ8NbY85DT1DtJh
+
+4) Vocabulary and Matching
+
+https://colab.research.google.com/drive/1d24zMdfku5U8e8v7AVLXBm2m6lb_7017
+
+5) Parts of Speech Tagging
+
+https://colab.research.google.com/drive/1SuOXz0jkvSYVFaZmPtZWmA74hc_Fx-Ce
+
+6) Named Entity Recognition
+
+https://colab.research.google.com/drive/1Mx3Z1KF8ADvh1egIcsmWw4q-skF06-dn
+
+7) Sentence Segmentation
+
+https://colab.research.google.com/drive/1DSqxEwBgunBTYi6V3lla2jGcmW0nXunh
+
+
+
+Section 4: Spam Message Classification
+
+https://colab.research.google.com/drive/1Mb7Cb4NoY_gF1nmB6Iu1-gFqINomqC2f
+
+
+
+Section 5: Restaurant Review Prediction (Good or bad)
+
+https://colab.research.google.com/drive/1qjHA_w7Ub-N_lIwSOIaYyScgaIyYKS3C
+
+
+
+Section 6: IMDB, Amazon and Yelp review Classification
+
+https://colab.research.google.com/drive/15nmPlpDYaiXEbQwis8wfWeUWi-Ifi83v
+
+
+
+Section 7: Automated Text Summarization
+
+https://colab.research.google.com/drive/1zhneu80nw3NlPipzyvS_V-bNUUOWt1EH
+
+
+
+Section 8: Twitter sentiment Analysis
+
+https://colab.research.google.com/drive/1M0v7E04O9DHDbEXDjixGNSZ0opx8hclF
+
+
+
+Section 10: Word Embeddings
+
+1) Train the model for Embeddings
+
+https://colab.research.google.com/drive/1Duaz4vlDfxQKb10aH6fjfVdfDSGKxib_
+
+2) Use pretrained model for Embeddings
+
+https://colab.research.google.com/drive/13Hbl1m_cdox0M540Ros_c6Y0mXqjcvcx
+
+
+
+Section 11: Text Classification with CNN
+
+https://colab.research.google.com/drive/1N0BluMrXb_LhHv-nhqLmJId2MXg4nM8i
+
+
+
+Section 12: Text Classification with RNN
+
+https://colab.research.google.com/drive/1uUzVR8cnQEkFU6zFUSSjLj5-8QN8hGzX
+
+
+
+Section 13: Automatic Text Generation using TensorFlow, Keras and LSTM
+
+https://colab.research.google.com/drive/1gO9e0i5i1k6hQu_-OzN0D71WGZSLCEad#scrollTo=umBDyxFr18K7
+
+
+
+Section 14: Data Analysis with Numpy
+
+https://colab.research.google.com/drive/19gdFCeOrwoOFcyOdC0aINPMW9b8NKZoX
+
+
+
+Section 15: Data Analysis with Pandas
+
+Colab Part 1:
+
+https://colab.research.google.com/drive/1U1kumO6AYGNjq-067WHyXRFfy1tz-N3D
+
+Colab Part 2:
+
+https://colab.research.google.com/drive/13IpO-Yc-qo4bSHDI3oRRTGYDIufgON30
+
+
+
+Section 16: Data Visualization with Matplotlib
+
+https://colab.research.google.com/drive/1eCNbA7UtMEu6HBn6ToN3zbiUDkUsilPA
+
+
+
+Section 17: Appendix
+
+1) Working with Text Files in Python
+
+https://colab.research.google.com/drive/1Rl6nKqGBJWEnVS0jei9Cp54_7XjoWQYM
+
+2) Working with PDF files in Python
+
+https://colab.research.google.com/drive/1DRil9vWf4CxmU0-RQGkO0UHPi_zDwLIZ
